@@ -1,0 +1,1 @@
+# ReconocimientoPatrones-Proyecto1
